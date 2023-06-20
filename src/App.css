@@ -1,0 +1,17 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.container{
+  width: 1583px;
+  margin: 0 auto;
+  min-height:1300px;
+  max-height: 200px;
+  /* background-color: #2D3748; */
+  position: relative;
+  overflow: hidden;
+}
+a{
+  text-decoration: none;
+}
